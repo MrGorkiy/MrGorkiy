@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 -->
 
-
+<br>
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -43,21 +43,19 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-
+<br>
 <h3 align="left">✏️ Connect with me:</h3>
 <p align="left">
 <a href="https://discordapp.com/users/407572130398601217/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr. Gorkiy#8335" height="30" width="40" /></a>
 <a href="mailto:mbrysin@bk.ru"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 </p>
 
-
-
+<br>
 <h3 align="left">🏆 My trophy:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrgorkiy&no-frame=true&no-bg=true&theme=onedark)](https://github.com/mrgorkiy/github-profile-trophy)
-
  
- 
+<br>
 <h3 align="left">📊 My statistics:</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgorkiy&theme=github_dark)
