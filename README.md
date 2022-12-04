@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/MrGorkiy/" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<p><img height="55" alt="I am a student of the Yandex School of Python. Nice to see you here, thank you!" align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&center=true&vCenter=true&width=500&lines=I+am+a+student+of+the+Yandex+School+of+Python.;Nice+to+see+you+here%2C+thank+you!"/></p></h1>
+<p><img height="55" alt="I am a student of the Yandex School of Python and C++. Nice to see you here, thank you!" align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&center=true&vCenter=true&width=500&lines=I+am+a+student+of+the+Yandex+School+of+Python+and+C++.;Nice+to+see+you+here%2C+thank+you!"/></p></h1>
 
 
 - :ru: I'm backend developer from Russia
