@@ -7,7 +7,7 @@
 - 🎓 I’m currently learning Python
 - 📫 How to reach me: mbrysin@bk.ru
 - ⚡ Fun fact: I am candy chef
-- ⭐ Skills: PYTHON / DJANGO / REST API / HTML / CSS
+- ⭐ Skills: Python / C++ / Django Framework / Flask / FastAPI / SQL / MySQL / PostgreSQL / SQLite / SQLAlchemy / Scrapy / Bash / HTML / CSS / Nginx / Docker / Unit Testing
 
 
 <!--
