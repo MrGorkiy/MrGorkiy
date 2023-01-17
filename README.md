@@ -50,10 +50,12 @@
 <a href="mailto:mbrysin@bk.ru"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 </p>
 
+<!--
 <br>
 <h3 align="left">🏆 My trophy:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrgorkiy&no-frame=true&no-bg=true&theme=onedark)](https://github.com/mrgorkiy/github-profile-trophy)
+-->
  
 <br>
 <h3 align="left">📊 My statistics:</h3>
