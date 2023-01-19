@@ -4,21 +4,21 @@
 
 ## 🔧 Техногии & Инструменты
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)
-![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)
-![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6aa6f8)
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)
-![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![MySQL](https://img.shields.io/badge/Skill-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
-![SQLite](https://img.shields.io/badge/Skill-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8)
-![Nginx](https://img.shields.io/badge/Skill-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Skill-Docker-informational?style=flat&logo=Docker&logoColor=white&color=6aa6f8)
-![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)
-![CSS](https://img.shields.io/badge/Skill-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)
+[![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
+[![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)](https://isocpp.org/)
+[![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6aa6f8)](https://palletsprojects.com/p/flask/)
+[![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/Skill-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/Skill-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8)](https://www.sqlite.org/index.html)
+[![Nginx](https://img.shields.io/badge/Skill-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=6aa6f8)](https://www.nginx.com/)
+[![Docker](https://img.shields.io/badge/Skill-Docker-informational?style=flat&logo=Docker&logoColor=white&color=6aa6f8)](https://www.docker.com/)
+[![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/Skill-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)](https://www.w3.org/Style/CSS/)
 
-![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)]()
+[![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/pycharm/)
 
 
 ## ✏️ Контакты:
