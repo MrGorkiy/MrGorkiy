@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/MrGorkiy/" target="_blank">Максим</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Я+изучаю+Python+и+C%2B%2B+в+Яндекс+Практикуме;Приятно+тебя+видеть+тут%2C+заглядывай+еще!" alt="I am a student of the Yandex School of Python and C++. Nice to see you here, thank you!" /></p></h1>
+<!--<p><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Я+изучаю+Python+и+C%2B%2B+в+Яндекс+Практикуме;Приятно+тебя+видеть+тут%2C+заглядывай+еще!" alt="I am a student of the Yandex School of Python and C++. Nice to see you here, thank you!" /></p></h1>-->
 
 ## 🔧 Техногии & Инструменты
 
