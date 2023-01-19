@@ -27,17 +27,17 @@
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=6aa6f8)](https://t.me/mrgorkiy)
 [![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=6aa6f8)](mailto:mbrysin@bk.ru)
 
-
+<!--
 ## 📊 Статистика:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgorkiy&theme=github_dark)
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrgorkiy&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrgorkiy&theme=github_dark)
--->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrgorkiy&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrgorkiy&theme=github_dark&utcOffset=3)
-
+-->
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mrgorkiy" /></p>
