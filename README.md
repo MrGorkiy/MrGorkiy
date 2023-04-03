@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
 [![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)](https://isocpp.org/)
 [![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)](https://www.djangoproject.com/)
+![DjangoREST](https://img.shields.io/badge/REST-Django-ff1709?style=flat&logo=django&logoColor=white&color=6aa6f8&labelColor=gray)
 [![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6aa6f8)](https://palletsprojects.com/p/flask/)
 [![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
@@ -20,14 +21,21 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)]()
 [![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/pycharm/)
 
-
 ## ✏️ Контакты:
 
+[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/mrgorkiy)
 [![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/407572130398601217/)
-[![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=6aa6f8)](https://t.me/mrgorkiy)
-[![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=6aa6f8)](mailto:mbrysin@bk.ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgorkiy/)
+[![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:mbrysin@bk.ru)
 
-<!--
+[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://nn.hh.ru/resume/0bd2378fff0b9bcb5b0039ed1f5277665a7442)
+[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/mrgorkiy)
+
+<!-- 
+[![HeadHunter](image/head hunter.png)](https://nn.hh.ru/resume/0bd2378fff0b9bcb5b0039ed1f5277665a7442)
+[![HabrCareer](image/habr career.png)](https://career.habr.com/mrgorkiy) 
+-->
+
 ## 📊 Статистика:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgorkiy&theme=github_dark)
@@ -37,14 +45,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrgorkiy&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrgorkiy&theme=github_dark&utcOffset=3)
--->
+
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mrgorkiy" /></p>
 
-
 <!--
-![](https://komarev.com/ghpvc/?username=mrgorkiy)</p>
+
+![](https://komarev.com/ghpvc/?username=mrgorkiy)
 
 ![GitHub metrics](https://metrics.lecoq.io/MrGorkiy) 
 
