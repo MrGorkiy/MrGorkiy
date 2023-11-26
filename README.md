@@ -11,6 +11,8 @@
 [![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6aa6f8)](https://palletsprojects.com/p/flask/)
 [![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
+[![Kubernetes](https://img.shields.io/badge/Skill-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)](https://kubernetes.io/)
+[![Swagger](https://img.shields.io/badge/Skill-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=6aa6f8)](https://swagger.io/)
 [![MySQL](https://img.shields.io/badge/Skill-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/Skill-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8)](https://www.sqlite.org/index.html)
 [![Nginx](https://img.shields.io/badge/Skill-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=6aa6f8)](https://www.nginx.com/)
